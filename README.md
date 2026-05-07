@@ -1,7 +1,8 @@
 # Unraveling Doping Effects in LaCoO3 via Machine Learning-Accelerated First-Principles Simulations
 
 
-[![DOI](https://zenodo.org/badge/DOI/xxx.xxx/xxx.xxx.svg)](https://doi.org/xxx.xxx/xxx.xxx)
+<!-- [![DOI](https://zenodo.org/badge/952672465.svg)](https://doi.org/10.5281/zenodo.20075808) -->
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.20075808-blue)](https://doi.org/10.5281/zenodo.20075808)
 
 ## Overview
 
